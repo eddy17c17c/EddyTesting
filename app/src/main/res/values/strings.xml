@@ -4,6 +4,19 @@
     <string-array name="items">
         <item>peach</item>
         <item>orange</item>
-
+        <item>tomato</item>
     </string-array>
+
+    <string-array name="prices">
+        <item>$99</item>
+        <item>$10</item>
+        <item>$20</item>
+    </string-array>
+
+    <string-array name="description">
+        <item>ABC</item>
+        <item>BCD</item>
+        <item>EFG</item>
+    </string-array>
+
 </resources>
