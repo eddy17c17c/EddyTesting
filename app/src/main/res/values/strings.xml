@@ -3,6 +3,7 @@
 
     <string-array name="items">
         <item>peach</item>
-        
+        <item>orange</item>
+
     </string-array>
 </resources>
